@@ -16,6 +16,6 @@ class info {
 
 int main() {
     info p;
-    p.setname("dentyo", "verity");
+    p.setname("Lord", "Verity");
     p.print();
 }
